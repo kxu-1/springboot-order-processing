@@ -1,0 +1,30 @@
+# Maven Build Output
+**/target/
+**/*.jar
+**/*.war
+**/*.ear
+**/*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# VS Code
+.vscode/
+
+# OS Temp Files
+.DS_Store
+Thumbs.db
+log/
+tmp/
+
+**/.local.*
